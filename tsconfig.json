@@ -6,6 +6,7 @@
     "verbatimModuleSyntax": false,
     "strict": true,
     "skipLibCheck": true,
+    "rootDir": "./src",
     "outDir": "./dist"
   },
   "include": [
